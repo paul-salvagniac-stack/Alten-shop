@@ -1,0 +1,7 @@
+shop\AppConfig.class
+shop\repo\ProductRepo.class
+shop\entities\Product.class
+shop\exposition\ProductController.class
+shop\HelloController.class
+shop\App.class
+shop\HelloController$Result.class
